@@ -101,8 +101,8 @@ All the modules are optional and can be enabled or disabled in a config file.
 ### Git Clone
 
     $ cd ~
-    $ git clone https://github.com/chris-marsh/pureline.git
-    $ cp pureline/configs/powerline_full_256col.conf ~/.pureline.conf
+    $ git clone https://github.com/oscarobwu/oscar-pureline.git
+    $ cp oscar-pureline/configs/powerline_full_256col.conf ~/.pureline.conf
 
 * In your `.bashrc` or `.profile`, whichever is used, source the `pureline` script as follows:
 
